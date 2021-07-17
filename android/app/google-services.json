@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "628685546857",
+    "project_id": "messenger-6b2ff",
+    "storage_bucket": "messenger-6b2ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628685546857:android:ef6b1dbd1d3ecec1e6c9f8",
+        "android_client_info": {
+          "package_name": "com.andere.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628685546857-ktrktvn89gf609uttge9o6dvftafeb6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPjOvxuB1RgYkdZZDn8JZfjzuYvqenK34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628685546857-ktrktvn89gf609uttge9o6dvftafeb6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
